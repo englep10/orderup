@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  group: MyString
+  creditcard: MyString
+  user_id: 
+  status: MyString
+  seating_id: 
+
+two:
+  group: MyString
+  creditcard: MyString
+  user_id: 
+  status: MyString
+  seating_id: 

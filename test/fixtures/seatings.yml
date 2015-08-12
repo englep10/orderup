@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  restaurant_id: 
+  limit: 1
+  time: 2015-08-12 17:13:06
+
+two:
+  restaurant_id: 
+  limit: 1
+  time: 2015-08-12 17:13:06
